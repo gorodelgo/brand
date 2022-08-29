@@ -228,6 +228,27 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "PLD: Programme for Leadership Development",
+        "startDate": "2019-03-01",
+        "finishDate": "2019-07-01",
+        "institution": {
+          "name": "Esade Executive Education",
+          "URL": "https://www.esade.edu/",
+          "image": {
+            "alt": "HKM7rEpa_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/5255f04e-68b3-4dd5-88be-67df314b2f80_hkm7repa_400x400.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "MBA",
         "startDate": "2011-09-01",
         "finishDate": "2012-07-01",
