@@ -201,6 +201,31 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master Ejecutivo en Inteligencia Artificial",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "Instituto de Inteligencia Artificial",
+          "URL": "https://iia.es/",
+          "image": {
+            "alt": "IIA-logo-transparent.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/54bc10e6-9f4c-439b-8569-75bd1d012fea_iia-logo-transparent.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "DialogFlow",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico de Obras Públicas",
