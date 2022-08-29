@@ -198,6 +198,37 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Civil Engineer",
+        "startDate": "2000-09-01",
+        "finishDate": "2010-09-01",
+        "institution": {
+          "name": "Universidad de Alicante",
+          "URL": "https://www.ua.es/",
+          "image": {
+            "alt": "Universidad-de-Alicante.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/b014f9ef-6498-4d9d-b98b-2c47bbcaa2a7_universidad-de-alica.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Autocad",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
