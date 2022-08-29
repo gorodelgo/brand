@@ -226,6 +226,28 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "MBA",
+        "startDate": "2011-09-01",
+        "finishDate": "2012-07-01",
+        "institution": {
+          "name": "Fundesem Business School",
+          "description": "Especialización en Marketing",
+          "URL": "https://www.fundesem.es/",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/41dfad01-45cb-42bd-9752-ec88f9b6c600_descarga.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico de Obras Públicas",
