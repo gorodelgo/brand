@@ -1,0 +1,238 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Álvaro",
+      "surnames": "Rodelgo Gómez",
+      "title": "Full-life Digital Thinker",
+      "description": "I am very curious and I always want to try new technologies, such as RPA software or Artificial Intelligence, new work methodologies such as Scrum or management through OKR.",
+      "avatar": {
+        "alt": "rodelgo.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/7b43da32-a766-431b-915d-3b73b2132c93_rodelgo.png"
+      },
+      "location": {
+        "notes": "Alicante (Alacant)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rodelgo"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rodelgo/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favorite kind of music to work is Jazz",
+        "fact": "I have a lot of playlist in Spotify. Jamie Cullum is one of my favorite singers."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Legacy: 15 lecciones sobre liderazgo",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "James",
+            "surnames": "Kerr",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Mide lo que importa: Cómo Google, Bono y la Fundación Gates cambian el mundo con OKR",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "John",
+            "surnames": "Doerr",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "reading",
+        "URL": "http://theleanstartup.com/",
+        "authors": [
+          {
+            "name": "Eric",
+            "surnames": "Ries",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "The Startup Way",
+        "type": "reading",
+        "URL": "http://www.thestartupway.com/",
+        "authors": [
+          {
+            "name": "Eric",
+            "surnames": "Ries",
+            "title": "Author"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Asana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Salesforce",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rodelgo/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Adobe Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Asana",
+          "type": "technology"
+        },
+        {
+          "name": "Confluence",
+          "type": "technology"
+        },
+        {
+          "name": "DialogFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Google Analytics",
+          "type": "technology"
+        },
+        {
+          "name": "Hubspot",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Magento",
+          "type": "technology"
+        },
+        {
+          "name": "Microsoft Excel",
+          "type": "technology"
+        },
+        {
+          "name": "Notion",
+          "type": "technology"
+        },
+        {
+          "name": "Salesforce",
+          "type": "technology"
+        },
+        {
+          "name": "Salesforce Marketing Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Shopify",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Trello",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        },
+        {
+          "name": "Zapier",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
