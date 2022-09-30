@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/7b43da32-a766-431b-915d-3b73b2132c93_rodelgo.png"
       },
       "location": {
-        "notes": "Alicante (Alacant)"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Alicante (Alacant)",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -382,6 +385,20 @@
           "name": "Zapier",
           "type": "technology"
         }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Zoho",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Director / General Manager",
+        "Growth Manager",
+        "Product Manager",
+        "Product Owner",
+        "Scrum Master & Agile Coach"
       ]
     }
   }
