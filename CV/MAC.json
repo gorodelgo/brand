@@ -90,10 +90,6 @@
       {
         "organization": {
           "name": "Benigar",
-          "image": {
-            "alt": "logo_benigar.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/a6ab0fcd-be35-4530-9a89-f8f84ba8ddca_logo_benigar.png"
-          },
           "URL": "https://benigar.com/"
         },
         "roles": [
@@ -128,6 +124,91 @@
               },
               {
                 "name": "Salesforce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Interim Project Manager",
+            "startDate": "2009-09-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Ahrefs",
+                "type": "technology"
+              },
+              {
+                "name": "Asana",
+                "type": "technology"
+              },
+              {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Balsamiq",
+                "type": "technology"
+              },
+              {
+                "name": "Basecamp",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "MailChimp",
+                "type": "technology"
+              },
+              {
+                "name": "Notion",
+                "type": "technology"
+              },
+              {
+                "name": "Salesforce",
+                "type": "technology"
+              },
+              {
+                "name": "Semrush",
+                "type": "technology"
+              },
+              {
+                "name": "Trello",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "Zapier",
+                "type": "technology"
+              },
+              {
+                "name": "Zoho",
                 "type": "technology"
               }
             ]
