@@ -506,6 +506,21 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Innovation as a driver for organizational change",
+        "startDate": "2019-09-01",
+        "finishDate": "2019-10-01",
+        "institution": {
+          "name": "ESEUNE Business School",
+          "URL": "https://www.eseune.edu/",
+          "image": {
+            "alt": "download.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/a9bd1e13-da67-4c83-b69b-cfaa469a76df_download.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "Metodologías Ágiles para la Gestión de Proyectos",
         "startDate": "2019-06-01",
         "finishDate": "2019-07-01",
