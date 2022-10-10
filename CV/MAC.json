@@ -337,6 +337,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Adora Media",
+          "image": {
+            "alt": "1519881549031.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/fe45e0a1-4b6c-49d5-bdb5-6e1796e3c2b2_1519881549031.jpg"
+          },
+          "URL": "https://www.adoramedia.es/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2012-07-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "FUNCIONES INTERNAS:\n-Definir objetivos de los proyectos.\n-Definición de KPI's y seguimiento.\n-Especificar el alcance del trabajo en función de los objetivos definidos.\n-Clasificar el proyecto, definiendo las tareas a realizar de forma que funcione como un todo, utilizando metodología ágil (uso de soft. JIRA combinado con Confluence, de la compañía Atlassian).\n-Asignar claramente las tareas y especificar con claridad los objetivos del miembro responsable del proyecto (tiempos, tecnologías, etc.)\n-Planificar y programar todo el proyecto, con especial atención en:\n_Los costes.\n_Los plazos de ejecución.\n_Los métodos de ejecución.\n-Efectuar un control permanente y continuo de la ejecución del proyecto.\n-Decidir medidas correctoras ante desviaciones y establecer planes de acción.\n-Supervisar la contabilidad del proyecto.\n-Mantener activo todo el sistema de comunicación del equipo del proyecto.\n-Generación de contenidos para el blog corporativo.\n\nFUNCIONES EXTERNAS\n-Mantener las relaciones con el cliente o promotor del proyecto, manteniendo el contacto durante y posteriormente al desarrollo del mismo.\n-Mantener las relaciones con partners.\n-Representar al equipo del proyecto o a Adora Media ante terceros, a todos los efectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
