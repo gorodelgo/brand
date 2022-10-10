@@ -564,6 +564,47 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Master Digital Analytics",
+        "startDate": "2015-02-01",
+        "finishDate": "2015-07-01",
+        "institution": {
+          "name": "Kschool",
+          "URL": "https://kschool.com/cursos/master-analitica-web-madrid/",
+          "image": {
+            "alt": "1643012716483.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/856aaf8e-ff72-4124-9c62-c868298b5c21_1643012716483.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Adobe Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Tag Manager",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          },
+          {
+            "name": "Search Console",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "MBA",
         "startDate": "2011-09-01",
         "finishDate": "2012-07-01",
