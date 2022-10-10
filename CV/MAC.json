@@ -506,6 +506,28 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
+        "name": "Metodologías Ágiles para la Gestión de Proyectos",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-07-01",
+        "institution": {
+          "name": "Universidad de Alicante",
+          "description": "La mentalidad Lean\nEl éxito y el fracaso\nEl triangulo de hierro\nDel modelo en cascada al manifiesto ágil\nEl modelo visual Kanban\nEmpezando con Trello\nHistorias de usuario\nScrum\nEl equipo Scrum (Scrum Team)\nArtefactos de Scrum\nLa definición de Terminado",
+          "URL": "https://uamooc.ua.es/scrumleankanban/course",
+          "image": {
+            "alt": "1519952024667.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/eafb9f2e-176c-4287-9db5-d9a8fa5d241c_1519952024667.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
         "name": "PLD: Programme for Leadership Development",
         "startDate": "2019-03-01",
         "finishDate": "2019-07-01",
