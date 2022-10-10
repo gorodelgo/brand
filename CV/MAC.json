@@ -222,6 +222,10 @@
       {
         "organization": {
           "name": "Aquora Business Education",
+          "image": {
+            "alt": "Logo-aquora-ifedes-web-png-web-2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/87c23c16-4100-466c-9e1f-d892f7a28398_logo-aquora-ifedes-w.png"
+          },
           "URL": "https://www.aquora.es"
         },
         "roles": [
