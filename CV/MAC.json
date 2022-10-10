@@ -233,6 +233,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Móvil Begar Levante S.A.",
+          "image": {
+            "alt": "1643368278863.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/9c04d55c-2409-4850-915a-d549d8ed107a_1643368278863.jpg"
+          },
+          "URL": "https://benigar.com/movil-begar/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de Negocio VO",
+            "startDate": "2015-10-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "- Gestión integral del negocio de vehículo de ocasión. Compra, reacondicionamiento y puesta a la venta de cada vehículo (tratados como proyectos, en coste, plazos, imprevistos, planes de acción, etc).\n- Supervisión y Gestión compartida del equipo comercial compuesto por 9 asesores comerciales y un BMW Genius.\n- Transformación del negocio / departamento. Optimizando / automatizando procesos con un enfoque transversal.\n- Interlocutor entre diferentes áreas de la organización para el funcionamiento transversal del negocio (tanto en áreas técnicas o de soporte, como en las de negocio).\n- Colaboración con el departamento de Marketing en la definición y ejecución de estrategias digitales para la captación de leads (landings de campañas específicas, etc).\n- Gestión y análisis de los portales web para captación de leads.\n- Seguimiento de KPI's y objetivos. Tanto 2016 como 2017 cerramos por encima del 100% de consecución de objetivos.\n- Propuesta constante a Dirección General de nuevos métodos y procesos, asociados a tecnologías.\nPREMIOS: Mejor concesionario BMW de España 2015 y Mejor en Ventas 2016."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
