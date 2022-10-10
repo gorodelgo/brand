@@ -377,6 +377,38 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Forte Hormigones Tecnológicos SL",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/038bdae6-94aa-4d54-a555-a7190c7983a3_download.png"
+          },
+          "URL": "https://forte.es/"
+        },
+        "roles": [
+          {
+            "name": "Jefe de Producción",
+            "startDate": "2007-03-01",
+            "finishDate": "2008-04-01",
+            "challenges": [
+              {
+                "description": "-Gestión de equipos de obra (de 2 a 10 personas).\n-Organicé, planifiqué y supervisé distintos proyectos.\n-Elaboré planos para proyectos.\n-Orientado a resultados, con entregas mensuales.\n-Diseñé procedimientos para la estandarización de procesos.\n-Optimicé hojas de cálculo para despieces de armadura y control de maquinaria.\n-Control de albaranes con imputación a partidas de obra.\n-Gestión de documentación para la entrada a obra de subcontratas.\n-Gestión de Stakeholders (proveedores, clientes, etc.)"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Autocad",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
