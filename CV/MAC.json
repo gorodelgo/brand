@@ -90,6 +90,10 @@
       {
         "organization": {
           "name": "Benigar",
+          "image": {
+            "alt": "Benigar_logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/bc7f1f8e-5f26-4422-9a78-85710041758c_benigar_logo.jpg"
+          },
           "URL": "https://benigar.com/"
         },
         "roles": [
