@@ -277,6 +277,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Binomio Ventures SL",
+          "image": {
+            "alt": "1-BV-Logo_web.gif",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/33587441-fbad-4343-bc00-c555465204e4_1-bv-logo_web.gif"
+          },
+          "URL": "https://binomioventures.com/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager (Product Owner)",
+            "startDate": "2013-02-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "- PROJECT MANAGER:\n* Diseño, prototipado y validación de propuestas.\n* Presentación de propuestas a gerencia.\n* Definir MVP e iteración continua de producto.\n\n- ECOMMERCE Manager:\n*Puesta en marcha de ecommerce, sector farmacia (definición y ejecución).\n*Combinar canales offline existentes con nuevo canal online.\n*Generar procesos para publicación, preparación de pedidos, resolución de incidencias.\n*Plan de Marketing (estrategias de atracción de usuarios, calendarización contenidos blog, email automation, adwords, etc).\n*Establecer KPI's y hacer seguimiento.\n*Crear Dashboards para monitorizar KPI's canal online (Microsoft Excel, Google Sheets, automatizados con addon Supermetrics y API de Google Analytics).\n*Coordinar equipo multidisciplinar (freelance en diseño y programación, partners tecnológicos, especialistas en salud, etc)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google AdWords",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
