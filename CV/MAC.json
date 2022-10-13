@@ -476,6 +476,12 @@
           "name": "Salesforce",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
