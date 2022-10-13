@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Alicante (Alacant)"
       }
     },
     "relevantLinks": [
@@ -143,6 +142,11 @@
           {
             "name": "Interim Project Manager",
             "startDate": "2009-09-01",
+            "challenges": [
+              {
+                "description": "[2018] One of the startups I helped as a freelancer was Athletika, an app with which to create sporting events of any kind.\nTogether with the 3 founders, I was in charge of:\n- Activate the marketing strategy.\n- Implementation of a CRM (HubSpot).\n- Validate hypotheses by talking to real users and recording users using the app."
+              }
+            ],
             "competences": [
               {
                 "name": "API",
