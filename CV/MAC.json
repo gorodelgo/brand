@@ -450,55 +450,7 @@
       },
       {
         "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hubspot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Microsoft Excel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Semrush",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Asana",
           "type": "technology"
         }
       },
@@ -510,13 +462,61 @@
       },
       {
         "skill": {
-          "name": "Balsamiq",
+          "name": "Trello",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Balsamiq",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Asana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Semrush",
           "type": "technology"
         }
       }
