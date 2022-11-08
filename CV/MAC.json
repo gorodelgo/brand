@@ -456,19 +456,13 @@
       },
       {
         "skill": {
-          "name": "Asana",
+          "name": "Hubspot",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -486,7 +480,25 @@
       },
       {
         "skill": {
-          "name": "Hubspot",
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Semrush",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Asana",
           "type": "technology"
         }
       },
@@ -498,7 +510,13 @@
       },
       {
         "skill": {
-          "name": "Google Analytics",
+          "name": "Balsamiq",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Notion",
           "type": "technology"
         }
       }
