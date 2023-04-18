@@ -47,7 +47,8 @@
             "surnames": "Kerr",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "Mide lo que importa: Cómo Google, Bono y la Fundación Gates cambian el mundo con OKR",
@@ -58,7 +59,8 @@
             "surnames": "Doerr",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "The Lean Startup",
@@ -70,7 +72,8 @@
             "surnames": "Ries",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       },
       {
         "title": "The Startup Way",
@@ -82,12 +85,52 @@
             "surnames": "Ries",
             "title": "Author"
           }
-        ]
+        ],
+        "summary": ""
       }
     ]
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Benga!",
+          "image": {
+            "alt": "logo_benga.JPG",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/18/6e6e839e-00c5-4b94-bfde-00f92c641b24_logo_benga.jpg"
+          },
+          "URL": "https://benga.es"
+        },
+        "roles": [
+          {
+            "name": "CMO & Project Manager",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Zapier",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "Benigar",
@@ -239,6 +282,11 @@
             "name": "Operations Manager",
             "startDate": "2018-12-01",
             "finishDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Zoho",
@@ -530,6 +578,7 @@
         "finishDate": "2021-07-01",
         "institution": {
           "name": "Instituto de Inteligencia Artificial",
+          "description": "",
           "URL": "https://iia.es/",
           "image": {
             "alt": "IIA-logo-transparent.png",
@@ -555,6 +604,7 @@
         "finishDate": "2019-10-01",
         "institution": {
           "name": "ESEUNE Business School",
+          "description": "",
           "URL": "https://www.eseune.edu/",
           "image": {
             "alt": "download.jpg",
@@ -592,6 +642,7 @@
         "finishDate": "2019-07-01",
         "institution": {
           "name": "Esade Executive Education",
+          "description": "",
           "URL": "https://www.esade.edu/",
           "image": {
             "alt": "HKM7rEpa_400x400.jpg",
@@ -613,6 +664,7 @@
         "finishDate": "2015-07-01",
         "institution": {
           "name": "Kschool",
+          "description": "",
           "URL": "https://kschool.com/cursos/master-analitica-web-madrid/",
           "image": {
             "alt": "1643012716483.jpg",
@@ -676,6 +728,7 @@
         "finishDate": "2010-09-01",
         "institution": {
           "name": "Universidad de Alicante",
+          "description": "",
           "URL": "https://www.ua.es/",
           "image": {
             "alt": "Universidad-de-Alicante.png",
@@ -783,12 +836,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "Zoho",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Business Operations & Strategy",
         "Director / General Manager",
@@ -800,5 +847,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Excel",
+        "type": "technology"
+      },
+      {
+        "name": "Balsamiq",
+        "type": "technology"
+      },
+      {
+        "name": "Google Analytics",
+        "type": "technology"
+      },
+      {
+        "name": "Confluence",
+        "type": "technology"
+      }
+    ]
   }
 }
