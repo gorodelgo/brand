@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,26 +11,16 @@
       "title": "Full-life Digital Thinker",
       "description": "I am very curious and I always want to try new technologies, such as RPA software or Artificial Intelligence, new work methodologies such as Scrum or management through OKR.\n\nI work hard to build trust, being the basis of my relationships and the lever to achieve the objectives.",
       "avatar": {
-        "alt": "rodelgo.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/7b43da32-a766-431b-915d-3b73b2132c93_rodelgo.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/26/7b43da32-a766-431b-915d-3b73b2132c93_rodelgo.png",
+        "alt": "rodelgo.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJS6udO9o1Yg0R44ELrHKofR0)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Alicante (Alacant)",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Alicante (Alacant)"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/rodelgo"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/rodelgo/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "My favorite kind of music to work is Jazz",
@@ -39,28 +29,69 @@
     ],
     "recommendations": [
       {
+        "title": "El juego infinito: ¿Sabes a qué estás jugando? (Gestión del conocimiento)",
+        "type": "reading",
+        "URL": "https://amzn.eu/d/1fgngu3",
+        "summary": "En este libro la idea principal es saber discriminar cuando estás jugando un juego finito y cuando uno infinito. Es un concepto muy sencillo, pero el hecho de que la gente no lo tenga claro hace que se produzcan muchos conflictos y problemas innecesarios.\nHay juegos que son finitos: un partido de baloncesto, una carrera de coches en la cual hay un ganador, algún perdedor y otros con distintos resultados.\nLa gestión de una empresa, así como la vida, son juegos infinitos. El juego de la empresa no se acaba con los resultados de un año. La vida no se acaba cuando uno se gradúa. No hay ganadores en los juegos infinitos, son juegos permanentes.\nCada tipo de juego tiene sus reglas determinadas, y si jugamos los infinitos con las reglas de los finitos nos estaremos equivocando y pudiendo causar mucho daño.",
+        "authors": [
+          {
+            "name": "Simon",
+            "surnames": "Sinek",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Inspired",
+        "type": "reading",
+        "URL": "https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/",
+        "summary": "INSPIRED: How to Create Tech Products Customers Love",
+        "authors": [
+          {
+            "name": "Marty",
+            "surnames": "Cagan",
+            "title": "Author"
+          }
+        ]
+      },
+      {
         "title": "Legacy: 15 lecciones sobre liderazgo",
         "type": "reading",
+        "URL": "https://amzn.eu/d/64pAsXs",
+        "summary": "En Legacy, James Kerr profundiza en el corazón del equipo más exitoso de la historia de cualquier deporte, los legendarios All Blacks de Nueva Zelanda, para revelarnos las 15 prácticas y poderosas lecciones de liderazgo para la vida y la empresa.",
         "authors": [
           {
             "name": "James",
             "surnames": "Kerr",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Mide lo que importa: Cómo Google, Bono y la Fundación Gates cambian el mundo con OKR",
         "type": "reading",
+        "URL": "https://amzn.eu/d/6AwHkZ7",
+        "summary": "El legendario inversor John Doerr revela cómo los Objetivos y Resultados Claves (OKR) han permitido a Google lograr un crecimiento explosivo, y cómo ese método puede ayudar a cualquier organización a prosperar.",
         "authors": [
           {
             "name": "John",
             "surnames": "Doerr",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      },
+      {
+        "title": "Sprint: El método para resolver problemas y testar nuevas ideas en solo 5 días",
+        "type": "reading",
+        "URL": "https://amzn.eu/d/0Z4QzL0",
+        "summary": "Creado por Jake Knapp, John Zeratsky y Braden Kowitz, tres socios de Google Ventures, SPRINT es un método único e infalible de 5 días para solventar problemas empresariales complicados y conseguir que la viabilidad de un proyecto se implante rápidamente.",
+        "authors": [
+          {
+            "name": "Jake",
+            "surnames": "Knapp, John Zeratsky, Braden Kowitz",
+            "title": "Author"
+          }
+        ]
       },
       {
         "title": "The Lean Startup",
@@ -72,21 +103,30 @@
             "surnames": "Ries",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "The Startup Way",
         "type": "reading",
         "URL": "http://www.thestartupway.com/",
+        "summary": "El camino hacia el Lean Startup explica cómo empresas de todo tipo pueden incrementar sus ingresos, impulsar la innovación y convertirse en organizaciones preparadas para sacar partido de las inmensas oportunidades que nos brinda el siglo XXI. Si en el bestseller El método Lean Startup el autor dirigía su atención hacia las startups de éxito, en esta ocasión lo hace hacia un nuevo grupo de organizaciones: multinacionales emblemáticas como General Electric y Toyota; pioneros tecnológicos consolidados como Amazon, Intuit o Facebook; startups de hipercrecimiento de próxima generación como Twilio, Dropbox y Airbnb e infinidad de otras startups en ciernes de las cuales no has oído hablar… todavía.",
         "authors": [
           {
             "name": "Eric",
             "surnames": "Ries",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rodelgo/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rodelgo"
       }
     ]
   },
@@ -96,8 +136,8 @@
         "organization": {
           "name": "Benga!",
           "image": {
-            "alt": "logo_benga.JPG",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/18/6e6e839e-00c5-4b94-bfde-00f92c641b24_logo_benga.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/18/6e6e839e-00c5-4b94-bfde-00f92c641b24_logo_benga.jpg",
+            "alt": "logo_benga.JPG"
           },
           "URL": "https://benga.es"
         },
@@ -105,11 +145,6 @@
           {
             "name": "CMO & Project Manager",
             "startDate": "2023-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CRM",
@@ -135,8 +170,8 @@
         "organization": {
           "name": "Benigar",
           "image": {
-            "alt": "Benigar_logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/bc7f1f8e-5f26-4422-9a78-85710041758c_benigar_logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/bc7f1f8e-5f26-4422-9a78-85710041758c_benigar_logo.jpg",
+            "alt": "Benigar_logo.jpg"
           },
           "URL": "https://benigar.com/"
         },
@@ -172,6 +207,165 @@
               },
               {
                 "name": "Salesforce",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aquora Business Education",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/87c23c16-4100-466c-9e1f-d892f7a28398_logo-aquora-ifedes-w.png",
+            "alt": "Logo-aquora-ifedes-web-png-web-2.png"
+          },
+          "URL": "https://www.aquora.es"
+        },
+        "roles": [
+          {
+            "name": "Operations Manager",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-11-01",
+            "competences": [
+              {
+                "name": "Zoho",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Móvil Begar Levante S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/9c04d55c-2409-4850-915a-d549d8ed107a_1643368278863.jpg",
+            "alt": "1643368278863.jpg"
+          },
+          "URL": "https://benigar.com/movil-begar/"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de Negocio VO",
+            "startDate": "2015-10-01",
+            "finishDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "- Gestión integral del negocio de vehículo de ocasión. Compra, reacondicionamiento y puesta a la venta de cada vehículo (tratados como proyectos, en coste, plazos, imprevistos, planes de acción, etc).\n- Supervisión y Gestión compartida del equipo comercial compuesto por 9 asesores comerciales y un BMW Genius.\n- Transformación del negocio / departamento. Optimizando / automatizando procesos con un enfoque transversal.\n- Interlocutor entre diferentes áreas de la organización para el funcionamiento transversal del negocio (tanto en áreas técnicas o de soporte, como en las de negocio).\n- Colaboración con el departamento de Marketing en la definición y ejecución de estrategias digitales para la captación de leads (landings de campañas específicas, etc).\n- Gestión y análisis de los portales web para captación de leads.\n- Seguimiento de KPI's y objetivos. Tanto 2016 como 2017 cerramos por encima del 100% de consecución de objetivos.\n- Propuesta constante a Dirección General de nuevos métodos y procesos, asociados a tecnologías.\nPREMIOS: Mejor concesionario BMW de España 2015 y Mejor en Ventas 2016."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Binomio Ventures SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/33587441-fbad-4343-bc00-c555465204e4_1-bv-logo_web.gif",
+            "alt": "1-BV-Logo_web.gif"
+          },
+          "URL": "https://binomioventures.com/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager (Product Owner)",
+            "startDate": "2013-02-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "- PROJECT MANAGER:\n* Diseño, prototipado y validación de propuestas.\n* Presentación de propuestas a gerencia.\n* Definir MVP e iteración continua de producto.\n\n- ECOMMERCE Manager:\n*Puesta en marcha de ecommerce, sector farmacia (definición y ejecución).\n*Combinar canales offline existentes con nuevo canal online.\n*Generar procesos para publicación, preparación de pedidos, resolución de incidencias.\n*Plan de Marketing (estrategias de atracción de usuarios, calendarización contenidos blog, email automation, adwords, etc).\n*Establecer KPI's y hacer seguimiento.\n*Crear Dashboards para monitorizar KPI's canal online (Microsoft Excel, Google Sheets, automatizados con addon Supermetrics y API de Google Analytics).\n*Coordinar equipo multidisciplinar (freelance en diseño y programación, partners tecnológicos, especialistas en salud, etc)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Google Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "Google Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "Google Tag Manager",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adora Media",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/fe45e0a1-4b6c-49d5-bdb5-6e1796e3c2b2_1519881549031.jpg",
+            "alt": "1519881549031.jpg"
+          },
+          "URL": "https://www.adoramedia.es/"
+        },
+        "roles": [
+          {
+            "name": "Project Manager",
+            "startDate": "2012-07-01",
+            "finishDate": "2013-01-01",
+            "challenges": [
+              {
+                "description": "FUNCIONES INTERNAS:\n-Definir objetivos de los proyectos.\n-Definición de KPI's y seguimiento.\n-Especificar el alcance del trabajo en función de los objetivos definidos.\n-Clasificar el proyecto, definiendo las tareas a realizar de forma que funcione como un todo, utilizando metodología ágil (uso de soft. JIRA combinado con Confluence, de la compañía Atlassian).\n-Asignar claramente las tareas y especificar con claridad los objetivos del miembro responsable del proyecto (tiempos, tecnologías, etc.)\n-Planificar y programar todo el proyecto, con especial atención en:\n_Los costes.\n_Los plazos de ejecución.\n_Los métodos de ejecución.\n-Efectuar un control permanente y continuo de la ejecución del proyecto.\n-Decidir medidas correctoras ante desviaciones y establecer planes de acción.\n-Supervisar la contabilidad del proyecto.\n-Mantener activo todo el sistema de comunicación del equipo del proyecto.\n-Generación de contenidos para el blog corporativo.\n\nFUNCIONES EXTERNAS\n-Mantener las relaciones con el cliente o promotor del proyecto, manteniendo el contacto durante y posteriormente al desarrollo del mismo.\n-Mantener las relaciones con partners.\n-Representar al equipo del proyecto o a Adora Media ante terceros, a todos los efectos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
                 "type": "technology"
               }
             ]
@@ -270,174 +464,10 @@
       },
       {
         "organization": {
-          "name": "Aquora Business Education",
-          "image": {
-            "alt": "Logo-aquora-ifedes-web-png-web-2.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/87c23c16-4100-466c-9e1f-d892f7a28398_logo-aquora-ifedes-w.png"
-          },
-          "URL": "https://www.aquora.es"
-        },
-        "roles": [
-          {
-            "name": "Operations Manager",
-            "startDate": "2018-12-01",
-            "finishDate": "2019-11-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
-            "competences": [
-              {
-                "name": "Zoho",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Móvil Begar Levante S.A.",
-          "image": {
-            "alt": "1643368278863.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/9c04d55c-2409-4850-915a-d549d8ed107a_1643368278863.jpg"
-          },
-          "URL": "https://benigar.com/movil-begar/"
-        },
-        "roles": [
-          {
-            "name": "Desarrollo de Negocio VO",
-            "startDate": "2015-10-01",
-            "finishDate": "2018-03-01",
-            "challenges": [
-              {
-                "description": "- Gestión integral del negocio de vehículo de ocasión. Compra, reacondicionamiento y puesta a la venta de cada vehículo (tratados como proyectos, en coste, plazos, imprevistos, planes de acción, etc).\n- Supervisión y Gestión compartida del equipo comercial compuesto por 9 asesores comerciales y un BMW Genius.\n- Transformación del negocio / departamento. Optimizando / automatizando procesos con un enfoque transversal.\n- Interlocutor entre diferentes áreas de la organización para el funcionamiento transversal del negocio (tanto en áreas técnicas o de soporte, como en las de negocio).\n- Colaboración con el departamento de Marketing en la definición y ejecución de estrategias digitales para la captación de leads (landings de campañas específicas, etc).\n- Gestión y análisis de los portales web para captación de leads.\n- Seguimiento de KPI's y objetivos. Tanto 2016 como 2017 cerramos por encima del 100% de consecución de objetivos.\n- Propuesta constante a Dirección General de nuevos métodos y procesos, asociados a tecnologías.\nPREMIOS: Mejor concesionario BMW de España 2015 y Mejor en Ventas 2016."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Binomio Ventures SL",
-          "image": {
-            "alt": "1-BV-Logo_web.gif",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/33587441-fbad-4343-bc00-c555465204e4_1-bv-logo_web.gif"
-          },
-          "URL": "https://binomioventures.com/"
-        },
-        "roles": [
-          {
-            "name": "Project Manager (Product Owner)",
-            "startDate": "2013-02-01",
-            "finishDate": "2015-09-01",
-            "challenges": [
-              {
-                "description": "- PROJECT MANAGER:\n* Diseño, prototipado y validación de propuestas.\n* Presentación de propuestas a gerencia.\n* Definir MVP e iteración continua de producto.\n\n- ECOMMERCE Manager:\n*Puesta en marcha de ecommerce, sector farmacia (definición y ejecución).\n*Combinar canales offline existentes con nuevo canal online.\n*Generar procesos para publicación, preparación de pedidos, resolución de incidencias.\n*Plan de Marketing (estrategias de atracción de usuarios, calendarización contenidos blog, email automation, adwords, etc).\n*Establecer KPI's y hacer seguimiento.\n*Crear Dashboards para monitorizar KPI's canal online (Microsoft Excel, Google Sheets, automatizados con addon Supermetrics y API de Google Analytics).\n*Coordinar equipo multidisciplinar (freelance en diseño y programación, partners tecnológicos, especialistas en salud, etc)."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google AdWords",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Data Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Google Maps",
-                "type": "technology"
-              },
-              {
-                "name": "Google Tag Manager",
-                "type": "technology"
-              },
-              {
-                "name": "Magento",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Search Console",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Adora Media",
-          "image": {
-            "alt": "1519881549031.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/fe45e0a1-4b6c-49d5-bdb5-6e1796e3c2b2_1519881549031.jpg"
-          },
-          "URL": "https://www.adoramedia.es/"
-        },
-        "roles": [
-          {
-            "name": "Project Manager",
-            "startDate": "2012-07-01",
-            "finishDate": "2013-01-01",
-            "challenges": [
-              {
-                "description": "FUNCIONES INTERNAS:\n-Definir objetivos de los proyectos.\n-Definición de KPI's y seguimiento.\n-Especificar el alcance del trabajo en función de los objetivos definidos.\n-Clasificar el proyecto, definiendo las tareas a realizar de forma que funcione como un todo, utilizando metodología ágil (uso de soft. JIRA combinado con Confluence, de la compañía Atlassian).\n-Asignar claramente las tareas y especificar con claridad los objetivos del miembro responsable del proyecto (tiempos, tecnologías, etc.)\n-Planificar y programar todo el proyecto, con especial atención en:\n_Los costes.\n_Los plazos de ejecución.\n_Los métodos de ejecución.\n-Efectuar un control permanente y continuo de la ejecución del proyecto.\n-Decidir medidas correctoras ante desviaciones y establecer planes de acción.\n-Supervisar la contabilidad del proyecto.\n-Mantener activo todo el sistema de comunicación del equipo del proyecto.\n-Generación de contenidos para el blog corporativo.\n\nFUNCIONES EXTERNAS\n-Mantener las relaciones con el cliente o promotor del proyecto, manteniendo el contacto durante y posteriormente al desarrollo del mismo.\n-Mantener las relaciones con partners.\n-Representar al equipo del proyecto o a Adora Media ante terceros, a todos los efectos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Forte Hormigones Tecnológicos SL",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/038bdae6-94aa-4d54-a555-a7190c7983a3_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/038bdae6-94aa-4d54-a555-a7190c7983a3_download.png",
+            "alt": "download.png"
           },
           "URL": "https://forte.es/"
         },
@@ -469,27 +499,63 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Full professional proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Portuguese",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Valencian",
-        "level": "Full professional proficiency"
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Asana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Balsamiq",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Jira",
@@ -504,7 +570,19 @@
       },
       {
         "skill": {
+          "name": "Notion",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Salesforce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Semrush",
           "type": "technology"
         }
       },
@@ -516,225 +594,26 @@
       },
       {
         "skill": {
-          "name": "Notion",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hubspot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Balsamiq",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Asana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Analytics",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Semrush",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Master Ejecutivo en Inteligencia Artificial",
-        "startDate": "2021-01-01",
-        "finishDate": "2021-07-01",
-        "institution": {
-          "name": "Instituto de Inteligencia Artificial",
-          "description": "",
-          "URL": "https://iia.es/",
-          "image": {
-            "alt": "IIA-logo-transparent.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/54bc10e6-9f4c-439b-8569-75bd1d012fea_iia-logo-transparent.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "DialogFlow",
-            "type": "technology"
-          },
-          {
-            "name": "TensorFlow",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Innovation as a driver for organizational change",
-        "startDate": "2019-09-01",
-        "finishDate": "2019-10-01",
-        "institution": {
-          "name": "ESEUNE Business School",
-          "description": "",
-          "URL": "https://www.eseune.edu/",
-          "image": {
-            "alt": "download.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/a9bd1e13-da67-4c83-b69b-cfaa469a76df_download.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Metodologías Ágiles para la Gestión de Proyectos",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-07-01",
-        "institution": {
-          "name": "Universidad de Alicante",
-          "description": "La mentalidad Lean\nEl éxito y el fracaso\nEl triangulo de hierro\nDel modelo en cascada al manifiesto ágil\nEl modelo visual Kanban\nEmpezando con Trello\nHistorias de usuario\nScrum\nEl equipo Scrum (Scrum Team)\nArtefactos de Scrum\nLa definición de Terminado",
-          "URL": "https://uamooc.ua.es/scrumleankanban/course",
-          "image": {
-            "alt": "1519952024667.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/eafb9f2e-176c-4287-9db5-d9a8fa5d241c_1519952024667.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Trello",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "PLD: Programme for Leadership Development",
-        "startDate": "2019-03-01",
-        "finishDate": "2019-07-01",
-        "institution": {
-          "name": "Esade Executive Education",
-          "description": "",
-          "URL": "https://www.esade.edu/",
-          "image": {
-            "alt": "HKM7rEpa_400x400.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/5255f04e-68b3-4dd5-88be-67df314b2f80_hkm7repa_400x400.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Master Digital Analytics",
-        "startDate": "2015-02-01",
-        "finishDate": "2015-07-01",
-        "institution": {
-          "name": "Kschool",
-          "description": "",
-          "URL": "https://kschool.com/cursos/master-analitica-web-madrid/",
-          "image": {
-            "alt": "1643012716483.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/856aaf8e-ff72-4124-9c62-c868298b5c21_1643012716483.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Adobe Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Google Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Google Tag Manager",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          },
-          {
-            "name": "R",
-            "type": "technology"
-          },
-          {
-            "name": "Search Console",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "MBA",
-        "startDate": "2011-09-01",
-        "finishDate": "2012-07-01",
-        "institution": {
-          "name": "Fundesem Business School",
-          "description": "Especialización en Marketing",
-          "URL": "https://www.fundesem.es/",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/41dfad01-45cb-42bd-9752-ec88f9b6c600_descarga.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniero Técnico de Obras Públicas",
         "startDate": "2000-09-01",
-        "finishDate": "2010-09-01",
         "institution": {
           "name": "Universidad de Alicante",
-          "description": "",
           "URL": "https://www.ua.es/",
           "image": {
-            "alt": "Universidad-de-Alicante.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/f32223e6-ae06-4083-b7b3-7ed451e95fd4_universidad-de-alica.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/f32223e6-ae06-4083-b7b3-7ed451e95fd4_universidad-de-alica.png",
+            "alt": "Universidad-de-Alicante.png"
           }
         },
+        "finishDate": "2010-09-01",
         "linkedCompetences": [
           {
             "name": "Autocad",
@@ -749,6 +628,172 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Innovation as a driver for organizational change",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "ESEUNE Business School",
+          "URL": "https://www.eseune.edu/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/a9bd1e13-da67-4c83-b69b-cfaa469a76df_download.jpg",
+            "alt": "download.jpg"
+          }
+        },
+        "finishDate": "2019-10-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "MBA",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Fundesem Business School",
+          "description": "Especialización en Marketing",
+          "URL": "https://www.fundesem.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/41dfad01-45cb-42bd-9752-ec88f9b6c600_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "finishDate": "2012-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master Digital Analytics",
+        "startDate": "2015-02-01",
+        "institution": {
+          "name": "Kschool",
+          "URL": "https://kschool.com/cursos/master-analitica-web-madrid/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/856aaf8e-ff72-4124-9c62-c868298b5c21_1643012716483.jpg",
+            "alt": "1643012716483.jpg"
+          }
+        },
+        "finishDate": "2015-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Adobe Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Search Console",
+            "type": "technology"
+          },
+          {
+            "name": "Google Tag Manager",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          },
+          {
+            "name": "R",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master Ejecutivo en Inteligencia Artificial",
+        "startDate": "2021-01-01",
+        "institution": {
+          "name": "Instituto de Inteligencia Artificial",
+          "URL": "https://iia.es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/54bc10e6-9f4c-439b-8569-75bd1d012fea_iia-logo-transparent.png",
+            "alt": "IIA-logo-transparent.png"
+          }
+        },
+        "finishDate": "2021-07-01",
+        "linkedCompetences": [
+          {
+            "name": "DialogFlow",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Metodologías Ágiles para la Gestión de Proyectos",
+        "startDate": "2019-06-01",
+        "institution": {
+          "name": "Universidad de Alicante",
+          "description": "La mentalidad Lean\nEl éxito y el fracaso\nEl triangulo de hierro\nDel modelo en cascada al manifiesto ágil\nEl modelo visual Kanban\nEmpezando con Trello\nHistorias de usuario\nScrum\nEl equipo Scrum (Scrum Team)\nArtefactos de Scrum\nLa definición de Terminado",
+          "URL": "https://uamooc.ua.es/scrumleankanban/course",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/eafb9f2e-176c-4287-9db5-d9a8fa5d241c_1519952024667.jpg",
+            "alt": "1519952024667.jpg"
+          }
+        },
+        "finishDate": "2019-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Trello",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "PLD: Programme for Leadership Development",
+        "startDate": "2019-03-01",
+        "institution": {
+          "name": "Esade Executive Education",
+          "URL": "https://www.esade.edu/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/5255f04e-68b3-4dd5-88be-67df314b2f80_hkm7repa_400x400.jpg",
+            "alt": "HKM7rEpa_400x400.jpg"
+          }
+        },
+        "finishDate": "2019-07-01",
+        "linkedCompetences": [
+          {
+            "name": "Microsoft Excel",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visión estratégica",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -756,9 +801,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/rodelgo/"
+          "URL": "https://www.linkedin.com/in/rodelgo/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/rodelgo",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "rodelgo@gmail.com"
       ]
     },
     "preferences": {
@@ -848,18 +900,14 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Jira",
-        "type": "technology"
-      },
-      {
-        "name": "Microsoft Excel",
-        "type": "technology"
-      },
-      {
         "name": "Balsamiq",
+        "type": "technology"
+      },
+      {
+        "name": "Confluence",
         "type": "technology"
       },
       {
@@ -867,8 +915,44 @@
         "type": "technology"
       },
       {
-        "name": "Confluence",
+        "name": "Jira",
         "type": "technology"
+      },
+      {
+        "name": "Microsoft Excel",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My ideal job is one in which we always work at the forefront of a market, with the best technology and a very top team of people from whom I can learn something every day.\nI would love to be able to develop projects that use the last technology, like artificial intelligence algorithms (AI), whether they are natural language processing (NLP) or image recognition.",
+    "goodPractices": "Before starting any project, I need to validate the hypotheses that have been formulated.",
+    "bookmarks": [
+      {
+        "name": "El juego infinito: ¿Sabes a qué estás jugando? (Gestión del conocimiento)",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/586b6093-7bf7-462c-b164-90f276e59f0a_b0848q95mt_cf911c17_.jpeg"
+      },
+      {
+        "name": "Inspired",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/03/c7fbd456-f22e-4f66-8bb8-2b06e431d635_inspired-2d.jpg"
+      },
+      {
+        "name": "Legacy: 15 lecciones sobre liderazgo",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/5ecf80fe-aab7-42d1-b206-f441e8c52c8f_cover.jpeg"
+      },
+      {
+        "name": "Mide lo que importa: Cómo Google, Bono y la Fundación Gates cambian el mundo con OKR",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/6e61b29d-2e6d-4859-98b0-a7e9001d1a4d_b07jk3xk1h_766443f1_.jpeg"
+      },
+      {
+        "name": "Sprint: El método para resolver problemas y testar nuevas ideas en solo 5 días",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/b3655537-3781-442c-9ed3-0a714894a271_cover-(1).jpeg"
+      },
+      {
+        "name": "The Lean Startup",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/bbbbf99d-aaa0-4ff0-9096-8495b9af8f8f_b004j4xgn6_cc900206_.jpeg"
+      },
+      {
+        "name": "The Startup Way",
+        "imageUrl": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/23/49dfebea-80e0-43f1-8c92-6e132afc4bc4_b07b4mnmn1_8845562b_.jpeg"
       }
     ]
   }
