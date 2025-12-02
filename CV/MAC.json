@@ -134,6 +134,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "t2ó",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/482676cd-2177-4f2e-94e1-023810c2e842_t2o-logo2x.png",
+            "alt": "t2o-logo@2x.png"
+          },
+          "URL": "https://www.t2o.com/"
+        },
+        "roles": [
+          {
+            "name": "Tech Project Manager",
+            "startDate": "2024-10-01",
+            "finishDate": "2025-03-01",
+            "competences": [
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Benga!",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/18/6e6e839e-00c5-4b94-bfde-00f92c641b24_logo_benga.jpg",
@@ -811,6 +858,12 @@
       ],
       "contactMails": [
         "rodelgo@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "652282513",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
