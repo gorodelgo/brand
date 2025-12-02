@@ -639,12 +639,6 @@
       },
       {
         "skill": {
-          "name": "Balsamiq",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Confluence",
           "type": "technology"
         }
@@ -1024,15 +1018,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Balsamiq",
-        "type": "technology"
-      },
-      {
         "name": "Confluence",
         "type": "technology"
       },
       {
         "name": "Google Analytics",
+        "type": "technology"
+      },
+      {
+        "name": "Hubspot",
         "type": "technology"
       },
       {
