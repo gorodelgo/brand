@@ -125,6 +125,10 @@
         "URL": "https://www.linkedin.com/in/rodelgo/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/gorodelgo"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/rodelgo"
       }
@@ -910,6 +914,10 @@
         {
           "URL": "https://www.linkedin.com/in/rodelgo/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gorodelgo",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/rodelgo",
