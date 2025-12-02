@@ -9,7 +9,7 @@
       "name": "Álvaro",
       "surnames": "Rodelgo Gómez",
       "title": "CMO & Technology Executive | IA conversacional, RevOps y CRM | Liderando transformación digital, datos y gobierno IT",
-      "description": "I am very curious and I always want to try new technologies, such as RPA software or Artificial Intelligence, new work methodologies such as Scrum or management through OKR.\n\nI work hard to build trust, being the basis of my relationships and the lever to achieve the objectives.",
+      "description": "Durante los últimos años he trabajado como directivo híbrido de negocio y tecnología, liderando crecimiento, datos y sistemas en compañías B2B y B2C intensivas en procesos y relación con el cliente.Aunque mi rol formal ha sido CMO y responsable de RevOps, en la práctica he funcionado como “puente” entre Dirección, Operaciones y Tecnología: definiendo la hoja de ruta de sistemas (CRM, contact center, automatización, IA conversacional), priorizando proyectos, gestionando proveedores y asegurando que cada euro invertido en tecnología se traduzca en rentabilidad y mejor experiencia de cliente.He liderado iniciativas de migración de plataformas críticas (CRM, marketing automation, contact center), implantación de modelos de gobierno de datos, diseño de procesos IT alineados con ISO 27001, y construcción de cuadros de mando que permiten tomar decisiones con información fiable y en tiempo.Me siento especialmente cómodo en entornos complejos y multisede, donde hay muchas piezas tecnológicas, dependencia de terceros y la necesidad de poner orden, priorizar y construir mientras el negocio sigue operando. Ahí es donde aporto más valor: dibujando la foto completa, alineando a los equipos y tomando decisiones pragmáticas.El reto que me motiva es el liderar la transformación tecnológica de organizaciones donde la experiencia del cliente, la eficiencia operativa y la gestión del dato sean estratégicas.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/04a2720e-a9d8-45d7-8744-608756553c03_photo_2024-10-31_14-.jpg",
         "alt": "photo_2024-10-31_14-18-24 - copia.jpg"
@@ -32,7 +32,6 @@
         "title": "El juego infinito: ¿Sabes a qué estás jugando? (Gestión del conocimiento)",
         "type": "reading",
         "URL": "https://amzn.eu/d/1fgngu3",
-        "summary": "En este libro la idea principal es saber discriminar cuando estás jugando un juego finito y cuando uno infinito. Es un concepto muy sencillo, pero el hecho de que la gente no lo tenga claro hace que se produzcan muchos conflictos y problemas innecesarios.\nHay juegos que son finitos: un partido de baloncesto, una carrera de coches en la cual hay un ganador, algún perdedor y otros con distintos resultados.\nLa gestión de una empresa, así como la vida, son juegos infinitos. El juego de la empresa no se acaba con los resultados de un año. La vida no se acaba cuando uno se gradúa. No hay ganadores en los juegos infinitos, son juegos permanentes.\nCada tipo de juego tiene sus reglas determinadas, y si jugamos los infinitos con las reglas de los finitos nos estaremos equivocando y pudiendo causar mucho daño.",
         "authors": [
           {
             "name": "Simon",
@@ -45,7 +44,6 @@
         "title": "Inspired",
         "type": "reading",
         "URL": "https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/",
-        "summary": "INSPIRED: How to Create Tech Products Customers Love",
         "authors": [
           {
             "name": "Marty",
@@ -58,7 +56,6 @@
         "title": "Legacy: 15 lecciones sobre liderazgo",
         "type": "reading",
         "URL": "https://amzn.eu/d/64pAsXs",
-        "summary": "En Legacy, James Kerr profundiza en el corazón del equipo más exitoso de la historia de cualquier deporte, los legendarios All Blacks de Nueva Zelanda, para revelarnos las 15 prácticas y poderosas lecciones de liderazgo para la vida y la empresa.",
         "authors": [
           {
             "name": "James",
@@ -71,7 +68,6 @@
         "title": "Mide lo que importa: Cómo Google, Bono y la Fundación Gates cambian el mundo con OKR",
         "type": "reading",
         "URL": "https://amzn.eu/d/6AwHkZ7",
-        "summary": "El legendario inversor John Doerr revela cómo los Objetivos y Resultados Claves (OKR) han permitido a Google lograr un crecimiento explosivo, y cómo ese método puede ayudar a cualquier organización a prosperar.",
         "authors": [
           {
             "name": "John",
@@ -84,7 +80,6 @@
         "title": "Sprint: El método para resolver problemas y testar nuevas ideas en solo 5 días",
         "type": "reading",
         "URL": "https://amzn.eu/d/0Z4QzL0",
-        "summary": "Creado por Jake Knapp, John Zeratsky y Braden Kowitz, tres socios de Google Ventures, SPRINT es un método único e infalible de 5 días para solventar problemas empresariales complicados y conseguir que la viabilidad de un proyecto se implante rápidamente.",
         "authors": [
           {
             "name": "Jake",
@@ -109,7 +104,6 @@
         "title": "The Startup Way",
         "type": "reading",
         "URL": "http://www.thestartupway.com/",
-        "summary": "El camino hacia el Lean Startup explica cómo empresas de todo tipo pueden incrementar sus ingresos, impulsar la innovación y convertirse en organizaciones preparadas para sacar partido de las inmensas oportunidades que nos brinda el siglo XXI. Si en el bestseller El método Lean Startup el autor dirigía su atención hacia las startups de éxito, en esta ocasión lo hace hacia un nuevo grupo de organizaciones: multinacionales emblemáticas como General Electric y Toyota; pioneros tecnológicos consolidados como Amazon, Intuit o Facebook; startups de hipercrecimiento de próxima generación como Twilio, Dropbox y Airbnb e infinidad de otras startups en ciernes de las cuales no has oído hablar… todavía.",
         "authors": [
           {
             "name": "Eric",
@@ -150,139 +144,27 @@
     "jobs": [
       {
         "organization": {
-          "name": "Aivora",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/3473d40e-20d0-4e6a-a4ef-84f5b34a333a_logo-aivora-cuadrado.png",
-            "alt": "logo-aivora-cuadrado-1200.png"
-          },
-          "URL": "https://aivora.ai/"
-        },
-        "roles": [
-          {
-            "name": "CMO & Operations",
-            "startDate": "2024-11-01",
-            "competences": [
-              {
-                "name": "ChatGPT",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Figma",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Search Console",
-                "type": "technology"
-              },
-              {
-                "name": "Google Sheets",
-                "type": "technology"
-              },
-              {
-                "name": "Hubspot",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Linkedin Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Slack",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "t2ó",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/482676cd-2177-4f2e-94e1-023810c2e842_t2o-logo2x.png",
-            "alt": "t2o-logo@2x.png"
-          },
-          "URL": "https://www.t2o.com/"
+          "name": "t2ó ONE"
         },
         "roles": [
           {
             "name": "Tech Project Manager",
             "startDate": "2024-10-01",
-            "finishDate": "2025-03-01",
-            "competences": [
-              {
-                "name": "ChatGPT",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Hubspot",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              }
-            ]
+            "finishDate": "2025-03-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "Benga!",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/18/6e6e839e-00c5-4b94-bfde-00f92c641b24_logo_benga.jpg",
-            "alt": "logo_benga.JPG"
-          },
-          "URL": "https://benga.es"
+          "name": "Aivora Solutions"
         },
         "roles": [
           {
-            "name": "CMO & Project Manager",
-            "startDate": "2023-01-01",
-            "finishDate": "2024-10-01",
-            "competences": [
+            "name": "CMO | RevOps | AI",
+            "startDate": "2024-10-01",
+            "challenges": [
               {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Zapier",
-                "type": "technology"
+                "description": "- Liderazgo de la migración desde Salesforce a HubSpot (Marketing & Sales Hub): diseño funcional, limpieza de datos, mapeo de propiedades y definición de nuevos procesos de trabajo para equipos de Marketing, Ventas y Customer Success. - Impulso de cuadros de mando y reporting ejecutivo para Dirección, basados en datos consolidados y fiables. - Implantación de procesos de gobierno de datos y soporte a la implantación del SGSI bajo ISO 27001 (políticas, gestión de riesgos, controles y mejora continua). - Diseño del modelo de colaboración con proveedores tecnológicos (SaaS, infra, comunicaciones), incluyendo criterios de selección, SLAs y seguimiento. - Colaboración con el área técnica en la definición de controles de seguridad, accesos, roles y backups vinculados a herramientas clave (CRM, almacenamiento, cloud). - Diseño de procesos de respuesta ante incidencias críticas en sistemas de relación con clientes (telefonía, WhatsApp, voz), garantizando continuidad operativa. - Coordinación de equipos multidisciplinares (Marketing, Ventas, Success, Tecnología y partners) para aterrizar procesos que consigan llevar a producción proyectos de IA generativa y automatización. - Acompañamiento al cambio: formación, documentación y adopción de nuevas herramientas y procesos."
               }
             ]
           }
@@ -290,47 +172,33 @@
       },
       {
         "organization": {
-          "name": "Benigar",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/bc7f1f8e-5f26-4422-9a78-85710041758c_benigar_logo.jpg",
-            "alt": "Benigar_logo.jpg"
-          },
-          "URL": "https://benigar.com/"
+          "name": "Benigar"
+        },
+        "roles": [
+          {
+            "name": "Senior Project Manager",
+            "startDate": "2023-01-01",
+            "finishDate": "2024-10-01",
+            "challenges": [
+              {
+                "description": "Definición e implantación del departamento de Contact Center para 11 instalaciones de venta y 12 talleres, concesionarios oficiales BMW, MINI y Motorrad. Con el objetivo de tratar las comunicaciones de manera omnicanal, mejorar nuestra atención al cliente y eficientar procesos. Integración de diferentes sistemas con proveedores de telefonía, asistentes conversacionales (IA), etc Diseño de procesos y nuevas metodologías de trabajo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Benigar"
         },
         "roles": [
           {
             "name": "Customer Lifecycle Manager",
             "startDate": "2019-11-01",
-            "finishDate": "2024-10-01",
+            "finishDate": "2022-12-01",
             "challenges": [
               {
-                "description": "- Member of the management team, reporting directly to the CEO.\n- Project Manager (Product Owner) - Digital Projects (webs, CRM and integrations)\n- Managing a team of 6 specialists in Marketing and CRM. And an external team of 4 developers.\n- Coordination of the internal and external team through the framework Scrum.\n- Define and implement a new CRM to unify processes from the different business areas and achieve full traceability of our actions with customers.\n- CRM – HubSpot: 03/2020\n- CRM – Salesforce (BMW Group): 02/2022\n- Define and coordinate the development of a new brand to market mobility services. Coordinating different providers, brand design, web development, SEO, and the blockchain decarbonization partner.\n- Constantly testing new models and technologies such as virtual voice assistants, which serve our clients through NPL (AI) algorithms.\n- Coordinate integrations between systems through API."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Hubspot",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Office 365",
-                "type": "technology"
-              },
-              {
-                "name": "Salesforce",
-                "type": "technology"
+                "description": "Dirección del área Customer Lifecycle Management. Corporación Benigar es propietaria de 11 instalaciones de la red de ventas de BMW Group, gestionando las marcas BMW, BMWi, BMW M, MINI y Motorrad. Realicé la implantación del departamento CRM en coordinación con la Dirección de IT. Conectando los departamentos de Marketing y Ventas. Implantando nuevos procesos y coordinando la formación del equipo comercial. En una primera fase se implantó HubSpot, con la parte de CRM + Marketing automation. En una segunda fase introdujimos Salesforce en coordinación con el responsable de implantación de BMW Ibérica."
               }
             ]
           }
@@ -338,58 +206,28 @@
       },
       {
         "organization": {
-          "name": "Aquora Business Education",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/87c23c16-4100-466c-9e1f-d892f7a28398_logo-aquora-ifedes-w.png",
-            "alt": "Logo-aquora-ifedes-web-png-web-2.png"
-          },
-          "URL": "https://www.aquora.es"
+          "name": "Aquora Business Education"
         },
         "roles": [
           {
-            "name": "Operations Manager",
+            "name": "Gerente de Operaciones",
             "startDate": "2018-12-01",
-            "finishDate": "2019-11-01",
-            "competences": [
-              {
-                "name": "Zoho",
-                "type": "technology"
-              }
-            ]
+            "finishDate": "2019-11-01"
           }
         ]
       },
       {
         "organization": {
-          "name": "Móvil Begar Levante S.A.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/9c04d55c-2409-4850-915a-d549d8ed107a_1643368278863.jpg",
-            "alt": "1643368278863.jpg"
-          },
-          "URL": "https://benigar.com/movil-begar/"
+          "name": "BENIGAR CORPORACIÓN"
         },
         "roles": [
           {
-            "name": "Desarrollo de Negocio VO",
+            "name": "Desarrollo de Negocio V.O.",
             "startDate": "2015-10-01",
             "finishDate": "2018-03-01",
             "challenges": [
               {
-                "description": "- Gestión integral del negocio de vehículo de ocasión. Compra, reacondicionamiento y puesta a la venta de cada vehículo (tratados como proyectos, en coste, plazos, imprevistos, planes de acción, etc).\n- Supervisión y Gestión compartida del equipo comercial compuesto por 9 asesores comerciales y un BMW Genius.\n- Transformación del negocio / departamento. Optimizando / automatizando procesos con un enfoque transversal.\n- Interlocutor entre diferentes áreas de la organización para el funcionamiento transversal del negocio (tanto en áreas técnicas o de soporte, como en las de negocio).\n- Colaboración con el departamento de Marketing en la definición y ejecución de estrategias digitales para la captación de leads (landings de campañas específicas, etc).\n- Gestión y análisis de los portales web para captación de leads.\n- Seguimiento de KPI's y objetivos. Tanto 2016 como 2017 cerramos por encima del 100% de consecución de objetivos.\n- Propuesta constante a Dirección General de nuevos métodos y procesos, asociados a tecnologías.\nPREMIOS: Mejor concesionario BMW de España 2015 y Mejor en Ventas 2016."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "- Gestión integral del negocio de vehículo de ocasión en 3 concesionarios oficiales BMW (Alicante, Petrer, Cocentaina). Compra, reacondicionamiento y puesta a la venta de cada vehículo (tratados como proyectos, en coste, plazos, imprevistos, planes de acción, etc). - Supervisión y Gestión compartida del equipo comercial compuesto por 9 asesores comerciales y un BMW Genius. - Transformación del negocio / departamento. Optimizando / automatizando procesos con un enfoque transversal. - Interlocutor entre diferentes áreas de la organización para el funcionamiento transversal del negocio (tanto en áreas técnicas o de soporte, como en las de negocio). - Colaboración con el departamento de Marketing en la definición y ejecución de estrategias digitales para la captación de leads (landings de campañas específicas, etc). - Gestión y análisis de los portales web para captación de leads. - Seguimiento de KPI's y objetivos. Tanto 2016 como 2017 cerramos por encima del 100% de consecución de objetivos. - Propuesta constante a Dirección General de nuevos métodos y procesos, asociados a tecnologías. PREMIOS: Mejor concesionario BMW de España 2015 y Mejor en Ventas 2016."
               }
             ]
           }
@@ -397,12 +235,7 @@
       },
       {
         "organization": {
-          "name": "Binomio Ventures SL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/33587441-fbad-4343-bc00-c555465204e4_1-bv-logo_web.gif",
-            "alt": "1-BV-Logo_web.gif"
-          },
-          "URL": "https://binomioventures.com/"
+          "name": "Binomio Ventures"
         },
         "roles": [
           {
@@ -411,45 +244,7 @@
             "finishDate": "2015-09-01",
             "challenges": [
               {
-                "description": "- PROJECT MANAGER:\n* Diseño, prototipado y validación de propuestas.\n* Presentación de propuestas a gerencia.\n* Definir MVP e iteración continua de producto.\n\n- ECOMMERCE Manager:\n*Puesta en marcha de ecommerce, sector farmacia (definición y ejecución).\n*Combinar canales offline existentes con nuevo canal online.\n*Generar procesos para publicación, preparación de pedidos, resolución de incidencias.\n*Plan de Marketing (estrategias de atracción de usuarios, calendarización contenidos blog, email automation, adwords, etc).\n*Establecer KPI's y hacer seguimiento.\n*Crear Dashboards para monitorizar KPI's canal online (Microsoft Excel, Google Sheets, automatizados con addon Supermetrics y API de Google Analytics).\n*Coordinar equipo multidisciplinar (freelance en diseño y programación, partners tecnológicos, especialistas en salud, etc)."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Google Ads",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Google Data Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Google Maps",
-                "type": "technology"
-              },
-              {
-                "name": "Google Search Console",
-                "type": "technology"
-              },
-              {
-                "name": "Google Tag Manager",
-                "type": "technology"
-              },
-              {
-                "name": "Magento",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "Mi actividad principal en Binomio está dividida en 2 segmentos:  - DESARROLLO NEGOCIO ONLINE: * Diseño, prototipado y validación de propuestas. * Presentación de propuestas a gerencia. * Definir MVP e iteración continua de producto.  - ECOMMERCE Manager: *Puesta en marcha de ecommerce, sector e-Health (definición y ejecución). *Combinar canales offline existentes con nuevo canal online. *Generar procesos para publicación, preparación de pedidos, resolución de incidencias. *Plan de Marketing (estrategias de atracción de usuarios, calendarización contenidos blog, email automation, adwords, etc). *Establecer KPI's y hacer seguimiento. *Crear Dashboards para monitorizar KPI's canal online (Microsoft Excel, Google Sheets, automatizados con addon Supermetrics y API de Google Analytics). *Coordinar equipo multidisciplinar (freelance en diseño y programación, partners tecnológicos, especialistas en salud, etc)."
               }
             ]
           }
@@ -457,39 +252,16 @@
       },
       {
         "organization": {
-          "name": "Adora Media",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/fe45e0a1-4b6c-49d5-bdb5-6e1796e3c2b2_1519881549031.jpg",
-            "alt": "1519881549031.jpg"
-          },
-          "URL": "https://www.adoramedia.es/"
+          "name": "Adora Media"
         },
         "roles": [
           {
-            "name": "Project Manager",
+            "name": "Project Manager & KAM",
             "startDate": "2012-07-01",
             "finishDate": "2013-01-01",
             "challenges": [
               {
-                "description": "FUNCIONES INTERNAS:\n-Definir objetivos de los proyectos.\n-Definición de KPI's y seguimiento.\n-Especificar el alcance del trabajo en función de los objetivos definidos.\n-Clasificar el proyecto, definiendo las tareas a realizar de forma que funcione como un todo, utilizando metodología ágil (uso de soft. JIRA combinado con Confluence, de la compañía Atlassian).\n-Asignar claramente las tareas y especificar con claridad los objetivos del miembro responsable del proyecto (tiempos, tecnologías, etc.)\n-Planificar y programar todo el proyecto, con especial atención en:\n_Los costes.\n_Los plazos de ejecución.\n_Los métodos de ejecución.\n-Efectuar un control permanente y continuo de la ejecución del proyecto.\n-Decidir medidas correctoras ante desviaciones y establecer planes de acción.\n-Supervisar la contabilidad del proyecto.\n-Mantener activo todo el sistema de comunicación del equipo del proyecto.\n-Generación de contenidos para el blog corporativo.\n\nFUNCIONES EXTERNAS\n-Mantener las relaciones con el cliente o promotor del proyecto, manteniendo el contacto durante y posteriormente al desarrollo del mismo.\n-Mantener las relaciones con partners.\n-Representar al equipo del proyecto o a Adora Media ante terceros, a todos los efectos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Google Analytics",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
+                "description": "FUNCIONES INTERNAS: -Definir objetivos de los proyectos. -Definición de KPI's y seguimiento. -Especificar el alcance del trabajo en función de los objetivos definidos. -Clasificar el proyecto, definiendo las tareas a realizar de forma que funcione como un todo, utilizando metodología ágil (uso de soft. JIRA combinado con Confluence, de la compañía Atlassian). -Asignar claramente las tareas y especificar con claridad los objetivos del miembro responsable del proyecto (tiempos, tecnologías, etc.) -Planificar y programar todo el proyecto, con especial atención en: _Los costes. _Los plazos de ejecución. _Los métodos de ejecución. -Efectuar un control permanente y continuo de la ejecución del proyecto. -Decidir medidas correctoras ante desviaciones y establecer planes de acción. -Supervisar la contabilidad del proyecto. -Mantener activo todo el sistema de comunicación del equipo del proyecto. -Generación de contenidos para el blog corporativo.  FUNCIONES EXTERNAS -Captación de nuevos clientes. -Mantener las relaciones con el cliente o promotor del proyecto, manteniendo el contacto durante y posteriormente al desarrollo del mismo. -Mantener las relaciones con partners. -Representar al equipo del proyecto o a Adora Media ante terceros, a todos los efectos."
               }
             ]
           }
@@ -497,89 +269,15 @@
       },
       {
         "organization": {
-          "name": "Freelance"
+          "name": "Profesional independiente"
         },
         "roles": [
           {
-            "name": "Interim Project Manager",
+            "name": "Interim Manager - Revenue & Marketing Operations",
             "startDate": "2009-09-01",
             "challenges": [
               {
-                "description": "[2018] One of the startups I helped as a freelancer was \"Athletika\", they had an app with which you could have sports meetups.\nI did:\n- Activate the marketing strategy.\n- Implementation of a CRM (HubSpot).\n- Validate hypotheses by talking to real users and recording users using the app."
-              }
-            ],
-            "competences": [
-              {
-                "name": "API",
-                "type": "technology"
-              },
-              {
-                "name": "Ahrefs",
-                "type": "technology"
-              },
-              {
-                "name": "Asana",
-                "type": "technology"
-              },
-              {
-                "name": "Atlassian",
-                "type": "technology"
-              },
-              {
-                "name": "Balsamiq",
-                "type": "technology"
-              },
-              {
-                "name": "Basecamp",
-                "type": "technology"
-              },
-              {
-                "name": "CRM",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Hubspot",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "MailChimp",
-                "type": "technology"
-              },
-              {
-                "name": "Notion",
-                "type": "technology"
-              },
-              {
-                "name": "Salesforce",
-                "type": "technology"
-              },
-              {
-                "name": "Semrush",
-                "type": "technology"
-              },
-              {
-                "name": "Trello",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              },
-              {
-                "name": "Zapier",
-                "type": "technology"
-              },
-              {
-                "name": "Zoho",
-                "type": "technology"
+                "description": "Consultor independiente para diferentes startups y proyectos digitales. - Marketing Digital y Operaciones. - Métodos Ágiles de trabajo (SCRUM, Kanban, etc). - Ayuda a la puesta en marcha de modelos de innovación, Lean Startup."
               }
             ]
           }
@@ -587,31 +285,16 @@
       },
       {
         "organization": {
-          "name": "Forte Hormigones Tecnológicos SL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/038bdae6-94aa-4d54-a555-a7190c7983a3_download.png",
-            "alt": "download.png"
-          },
-          "URL": "https://forte.es/"
+          "name": "Forte Hormigones Tecnológicos"
         },
         "roles": [
           {
-            "name": "Jefe de Producción",
+            "name": "Jefe de Producción [edificación industrial]",
             "startDate": "2007-03-01",
             "finishDate": "2008-04-01",
             "challenges": [
               {
-                "description": "-Gestión de equipos de obra (de 2 a 10 personas).\n-Organicé, planifiqué y supervisé distintos proyectos.\n-Elaboré planos para proyectos.\n-Orientado a resultados, con entregas mensuales.\n-Diseñé procedimientos para la estandarización de procesos.\n-Optimicé hojas de cálculo para despieces de armadura y control de maquinaria.\n-Control de albaranes con imputación a partidas de obra.\n-Gestión de documentación para la entrada a obra de subcontratas.\n-Gestión de Stakeholders (proveedores, clientes, etc.)"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Autocad",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Excel",
-                "type": "technology"
+                "description": "-Gestión de equipos de obra (de 2 a 10 personas). -Organicé, planifiqué y supervisé distintos proyectos. -Elaboré planos para proyectos. -Orientado a resultados, con entregas mensuales. -Diseñé procedimientos para la estandarización de procesos. -Optimicé hojas de cálculo para despieces de armadura y control de maquinaria. -Control de albaranes con imputación a partidas de obra. -Gestión de documentación para la entrada a obra de subcontratas. -Gestión de Stakeholders (proveedores, clientes, etc.)"
               }
             ]
           }
@@ -681,7 +364,19 @@
       },
       {
         "skill": {
+          "name": "Magento",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Microsoft Excel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
           "type": "technology"
         }
       },
@@ -720,177 +415,112 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Ingeniero Técnico de Obras Públicas",
-        "startDate": "2000-09-01",
+        "name": "B2 English Course",
+        "startDate": "2018-01-01",
         "institution": {
-          "name": "Universidad de Alicante",
-          "URL": "https://www.ua.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/f32223e6-ae06-4083-b7b3-7ed451e95fd4_universidad-de-alica.png",
-            "alt": "Universidad-de-Alicante.png"
-          }
+          "name": "EF International Language Centers"
         },
-        "finishDate": "2010-09-01",
-        "linkedCompetences": [
-          {
-            "name": "Autocad",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Basic",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2018-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Innovation as a driver for organizational change",
-        "startDate": "2019-09-01",
+        "name": "Curso",
+        "startDate": "2019-01-01",
         "institution": {
-          "name": "ESEUNE Business School",
-          "URL": "https://www.eseune.edu/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/a9bd1e13-da67-4c83-b69b-cfaa469a76df_download.jpg",
-            "alt": "download.jpg"
-          }
+          "name": "UA - Universidad de Alicante / Universitat d'Alacant"
         },
-        "finishDate": "2019-10-01"
+        "finishDate": "2019-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "MBA",
-        "startDate": "2011-09-01",
+        "name": "Design Thinking - Innovación estratégica",
+        "startDate": "2018-01-01",
         "institution": {
-          "name": "Fundesem Business School",
-          "description": "Especialización en Marketing",
-          "URL": "https://www.fundesem.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/41dfad01-45cb-42bd-9752-ec88f9b6c600_descarga.png",
-            "alt": "descarga.png"
-          }
+          "name": "Fundesem Business School"
         },
-        "finishDate": "2012-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2018-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Civil",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Instituto Politécnico de Leiria"
+        },
+        "finishDate": "2011-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Técnica de Obras Públicas",
+        "startDate": "2000-01-01",
+        "institution": {
+          "name": "Universidad de Alicante"
+        },
+        "finishDate": "2010-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Innovation as a Driver for Organizational Change",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Aquora Business Education"
+        },
+        "finishDate": "2019-01-01"
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Master Digital Analytics",
-        "startDate": "2015-02-01",
+        "startDate": "2015-01-01",
         "institution": {
-          "name": "Kschool",
-          "URL": "https://kschool.com/cursos/master-analitica-web-madrid/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/856aaf8e-ff72-4124-9c62-c868298b5c21_1643012716483.jpg",
-            "alt": "1643012716483.jpg"
-          }
+          "name": "KSchool"
         },
-        "finishDate": "2015-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Adobe Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Google Analytics",
-            "type": "technology"
-          },
-          {
-            "name": "Google Search Console",
-            "type": "technology"
-          },
-          {
-            "name": "Google Tag Manager",
-            "type": "technology"
-          },
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          },
-          {
-            "name": "R",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2015-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Master Ejecutivo en Inteligencia Artificial",
+        "name": "Master of Business Administration - MBA",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "Fundesem Business School"
+        },
+        "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster Ejecutivo en Inteligencia Artificial",
         "startDate": "2021-01-01",
         "institution": {
-          "name": "Instituto de Inteligencia Artificial",
-          "URL": "https://iia.es/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/54bc10e6-9f4c-439b-8569-75bd1d012fea_iia-logo-transparent.png",
-            "alt": "IIA-logo-transparent.png"
-          }
+          "name": "Instituto de Inteligencia Artificial"
         },
-        "finishDate": "2021-07-01",
-        "linkedCompetences": [
-          {
-            "name": "DialogFlow",
-            "type": "technology"
-          },
-          {
-            "name": "TensorFlow",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2021-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Metodologías Ágiles para la Gestión de Proyectos",
-        "startDate": "2019-06-01",
+        "name": "Postgrado: Curso Posicionamiento y Optimización de motores de busqueda (SEO)",
+        "startDate": "2009-01-01",
         "institution": {
-          "name": "Universidad de Alicante",
-          "description": "La mentalidad Lean\nEl éxito y el fracaso\nEl triangulo de hierro\nDel modelo en cascada al manifiesto ágil\nEl modelo visual Kanban\nEmpezando con Trello\nHistorias de usuario\nScrum\nEl equipo Scrum (Scrum Team)\nArtefactos de Scrum\nLa definición de Terminado",
-          "URL": "https://uamooc.ua.es/scrumleankanban/course",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/10/eafb9f2e-176c-4287-9db5-d9a8fa5d241c_1519952024667.jpg",
-            "alt": "1519952024667.jpg"
-          }
+          "name": "Universidad de Alicante"
         },
-        "finishDate": "2019-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Trello",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2010-01-01"
       },
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "PLD: Programme for Leadership Development",
-        "startDate": "2019-03-01",
+        "name": "Programme for Leadership Development",
+        "startDate": "2019-01-01",
         "institution": {
-          "name": "Esade Executive Education",
-          "URL": "https://www.esade.edu/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/29/5255f04e-68b3-4dd5-88be-67df314b2f80_hkm7repa_400x400.jpg",
-            "alt": "HKM7rEpa_400x400.jpg"
-          }
+          "name": "Esade"
         },
-        "finishDate": "2019-07-01",
-        "linkedCompetences": [
-          {
-            "name": "Microsoft Excel",
-            "type": "technology"
-          }
-        ]
+        "finishDate": "2019-01-01"
       }
     ],
     "softSkills": [
