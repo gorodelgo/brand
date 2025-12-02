@@ -134,6 +134,64 @@
     "jobs": [
       {
         "organization": {
+          "name": "Aivora",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/4e424c9b-8c56-48d1-814e-3f7b35234cac_logo_firma_aivora.png",
+            "alt": "logo_firma_aivora.png"
+          },
+          "URL": "https://aivora.ai/"
+        },
+        "roles": [
+          {
+            "name": "CMO & Operations",
+            "startDate": "2024-11-01",
+            "competences": [
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Google Analytics",
+                "type": "technology"
+              },
+              {
+                "name": "Google Search Console",
+                "type": "technology"
+              },
+              {
+                "name": "Google Sheets",
+                "type": "technology"
+              },
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linkedin Ads",
+                "type": "technology"
+              },
+              {
+                "name": "Slack",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "t2ó",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/02/482676cd-2177-4f2e-94e1-023810c2e842_t2o-logo2x.png",
